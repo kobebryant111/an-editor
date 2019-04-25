@@ -1,0 +1,12 @@
+d:\documents\visual studio 2015\Projects\TXT\TXT\bin\Debug\TXT.exe.config
+d:\documents\visual studio 2015\Projects\TXT\TXT\obj\Debug\TXT.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\TXT\TXT\obj\Debug\TXT.Form1.resources
+d:\documents\visual studio 2015\Projects\TXT\TXT\obj\Debug\TXT.Form3.resources
+d:\documents\visual studio 2015\Projects\TXT\TXT\obj\Debug\TXT.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\TXT\TXT\obj\Debug\TXT.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\TXT\TXT\bin\Debug\TXT.exe
+d:\documents\visual studio 2015\Projects\TXT\TXT\bin\Debug\TXT.pdb
+d:\documents\visual studio 2015\Projects\TXT\TXT\obj\Debug\TXT.exe
+d:\documents\visual studio 2015\Projects\TXT\TXT\obj\Debug\TXT.pdb
+d:\documents\visual studio 2015\Projects\TXT\TXT\obj\Debug\TXT.Form2.resources
+d:\documents\visual studio 2015\Projects\TXT\TXT\obj\Debug\TXT.Form4.resources
